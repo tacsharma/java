@@ -4,13 +4,13 @@ class series
     public static void main(String[] args) 
     {
         double sum = 0;
-        int n;
-        System.out.println("1/1! + 2/2! + 3/3! + ..N/N!");
+        int x;
+        System.out.println("1+x+x2 /2!+x3/3!+...");
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the no. of terms in series:");
-        n = s.nextInt();
+        x = s.nextInt();
         series obj = new series();
-        for(int i = 1; i <= n; i++)
+        for(int i = 1; i <= x; i++)
         {
             sum = sum + (double)i / (obj.fact(i));
         }
