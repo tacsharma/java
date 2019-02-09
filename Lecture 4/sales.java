@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques
+public class sales
 {
 	Scanner scan = new Scanner(System.in);
 
