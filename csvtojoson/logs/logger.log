@@ -1,0 +1,16 @@
+2019-02-02 21:06:15 ERROR NameValidator:25 - 
+ 
+com.ncu.exceptions.EmptyFileNameException: Empty File Name Exception"Oops.. Empty Filename Is Not Acceptable ...!"
+
+2019-02-03 01:37:28 ERROR NameValidator:30 - 
+ 
+com.ncu.exceptions.MissingExtensionException: Missing Extension Exception"Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
+2019-02-08 15:11:32 ERROR NameValidator:52 - 
+ 
+com.ncu.exceptions.FileNameLengthException: File Name Length Exception"You have Given Long File Name .This System Accept Only Less Than 25 Characters To File Name ..!"
+
+2019-02-08 15:12:51 ERROR NameValidator:44 - 
+ 
+com.ncu.exceptions.MissingExtensionException: Missing Extension Exception"Oops.. Extension Is Messing .You Should Also Give .csv Extension ...!"
+
